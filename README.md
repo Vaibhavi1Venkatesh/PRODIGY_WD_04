@@ -10,7 +10,7 @@ A colorful, responsive personal portfolio website that showcases:
 - Academic and internship projects
 
 ### 🔗 Live Preview:
-*(Add your GitHub Pages or Netlify link here)*
+https://github.com/Vaibhavi1Venkatesh/PRODIGY_WD_04
 
 ### 💡 Features
 - Fully responsive layout
